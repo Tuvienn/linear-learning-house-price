@@ -1,0 +1,25 @@
+@startuml
+skinparam ActivityBackgroundColor #E3F2FD
+skinparam ActivityBorderColor #1565C0
+skinparam ArrowColor #1565C0
+skinparam DefaultFontName Arial
+skinparam DefaultFontSize 14
+
+title ML Pipeline - House Price Prediction
+
+start
+
+:1. Data Collection & Understanding;
+
+:2. Data Preprocessing;
+
+:3. Data Splitting;
+
+:4. Model Selection & Training;
+
+:5. Evaluation & Tuning;
+
+:6. Deployment & Monitoring;
+
+stop
+@enduml
