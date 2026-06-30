@@ -79,7 +79,7 @@ Bộ dữ liệu sử dụng là [House Prices - Advanced Regression Techniques]
     </tr>
     <tr>
       <td>🎓 <b>Trường đại học:</b></td>
-      <td>Ho Chi Minh City University of Transport</td>
+      <td>University of Transport in Ho Chi Minh City</td>
     </tr>
   </table>
   
